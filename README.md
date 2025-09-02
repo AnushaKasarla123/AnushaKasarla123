@@ -17,7 +17,8 @@
 Full-Stack Development | DSA | AI Integration | REST APIs  
 
 📫 How to reach me:  
-[LinkedIn](https://linkedin.com/in/anusha-kasarla) | [GitHub](https://github.com/Anushakasarla123) | {Mail}(https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) 
+[LinkedIn](https://linkedin.com/in/anusha-kasarla) | [GitHub](https://github.com/Anushakasarla123) | [Mail](mailto:anushakasarla1922@gmail.com)
+
 
 ⚡ Fun fact: I code early in the morning 🌅 and believe consistency beats talent!  
 
